@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.pdf
+assets/*.pdf
+assets/t_crop.png
+assets/tuff_crop.png
